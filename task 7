@@ -1,0 +1,5 @@
+
+a = int(input('Enter the price of the meal: '))
+b = int(input('Enter a percent tip you want to leave: '))
+print('Tip amount: ', (a * b) / 100,
+     'Total bill: ', a + (a * b) / 100)
