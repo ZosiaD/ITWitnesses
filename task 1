@@ -1,1 +1,0 @@
-print('fraction 3 5/8 as a floating point number:', 3 + 5 / 8, 'and as an integer:', 3 + 5 // 8)
