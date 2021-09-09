@@ -1,0 +1,3 @@
+from math import pi as pi
+r = int(input('Enter a radius: '))
+print('An area =', pi * r ** 2)
