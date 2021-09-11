@@ -1,3 +1,10 @@
+'''
+Write short scripts to print the results of the following expressions. In 
+most places, changing integers to floating point produces a notably different 
+result. For example (296/167)^2 and(296.0/167.0)^2$. 
+Use long as well as complex types to see the differences.
+'''
+
 # info
 a = 355.113 * (1 - 0.0003/3522)
 b = 22/17 + 37/47 + 88/83
