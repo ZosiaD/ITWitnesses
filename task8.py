@@ -7,4 +7,4 @@ days = int(input("day of birth = "))
 month = int(input("month of birth = "))
 year = int(input("year of birth = "))
 
-print("total days from birth = ", ((2021 - year)*365 + month*30 + days))
+print("total days from birth = ", ((2021 - year)*365 + (9 - month)*30 + (20 -days)))
